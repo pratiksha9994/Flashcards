@@ -1,0 +1,14 @@
+[
+  {
+    "question": "what is python?",
+    "answer": "Python is a general purpose programming language"
+  },
+  {
+    "question": "What is full form of sql?",
+    "answer": "Structure Query Language"
+  },
+  {
+    "question": "what is PCA?",
+    "answer": "PCA(Pincipal Component Ananlysis) is demension reduction tehnique. "
+  }
+]
